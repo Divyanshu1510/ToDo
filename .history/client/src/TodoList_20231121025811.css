@@ -1,0 +1,10 @@
+.todo-list{
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.todo-item{
+    background-color:aqua;
+    border: 1px solid
+}
